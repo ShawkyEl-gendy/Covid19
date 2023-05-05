@@ -1,0 +1,32 @@
+Text	Label
+covid19 not killing disease	0
+COVID only affects older people, so young people don’t have to worry about it	0
+If youhave COVID and aren’t showing symptoms you won’t transmit the disease	0
+Face masks don’t work.	0
+Masks are harmful to your health and can kill you	0
+We don’t need to worry about a second wave of COVID-19. It’s just the same as the normal winter cold and flu season.	0
+Covid-19 death rate is 0.1% of people that catch it.	0
+Testing is inaccurate, and testing for covid-19 has false positives of 80%.	0
+We should let everyone catch the virus so we become immune, even if it causes some deaths in the short-term.	0
+Obesity kills more people than Coronavirus.	0
+The Government is using Behavioural Scientists in SAGE to brainwash and manipulate the public to achieve compliance with dangerous policies and laws.	0
+COVID-19 is man-made.	0
+Herd immunity will end the coronavirus pandemic, so vaccinations are not necessary	0
+Ivermectin cures or prevents COVID-19.	0
+Warm water or saline will protect you from getting sick if you’re exposed to the coronavirus.	0
+The virus spreads very easily to other people	1
+Children can get COVID-19	1
+A vaccine to prevent COVID-19 is available	1
+Some infected people have no symptoms, but others get very sick, and some people die	1
+Swabs from your nose or throat are tested to diagnose COVID-19	1
+No medicines cure COVID-19, but some might help people with severe infection or people at risk of severe infection	1
+COVID-19 is a pandemic. That's an infection that's spreading rapidly in many parts of the world all at once	1
+Mostly through the air, in droplets that an infected person spreads through a cough, sneeze, singing, or talking	1
+Through touching things that infected people have touched and then touching your face You can spread the virus that causes COVID-19 before you have any symptoms	1
+You can die from COVID-19. 	1
+The older you are, the higher your risk of death. Most deaths occur in people over 50 years old. People over 80 are at very high risk. But even children and young adults can die.	1
+When in indoor public places in areas where the COVID-19 Community Level is high, regardless of vaccination status	1
+you should Get tested if you have symptoms of COVID-19	1
+Cover a cough or sneeze with a tissue, then throw the tissue in the trash	1
+Clean and disinfect frequently touched objects and surfaces using a regular household cleaning spray or wipe	1
+Pay attention to your health and watch for symptoms	1
